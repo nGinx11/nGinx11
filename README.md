@@ -3,7 +3,7 @@
 
 
 
-- Sup nerds, I’m @nGinx11 (Keshav)
+- Sup nerds, I’m @nGinx11
 - Just a dude who makes convoluted solutions for small problems
 - Idk why you would, but hit me up on Discord at `nginx11`
 
