@@ -1,4 +1,4 @@
-<div id = "literally everything" align = center></div>
+<div id = "literally everything" align = center>
 
 
 
@@ -13,7 +13,7 @@ From [statusbadges.me](https://statusbadges.me/)
 
 [![GitHub stats?!?](https://github-readme-stats.vercel.app/api?username=nGinx11&theme=transparent&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
 > [!NOTE]
-> The card above does not include my private contributions. For the record, pretty much all my contributions are private too lol. <br>
+> The card above does not include my private contributions. (Which are basicaly all of them) <br>
 > (It's a bunch of CS50 stuff for those wondering)
 
 <br>
@@ -21,3 +21,4 @@ From [statusbadges.me](https://statusbadges.me/)
 ![](https://komarev.com/ghpvc/?username=nGinx11&style=plastic&color=65e8b4&label=People+who+said+hi:&base=344) 
 
 
+</div>
