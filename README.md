@@ -1,6 +1,3 @@
-<div id = "literally everything" align = center>
-
-
 
 
 - Sup nerds, I’m @nGinx11
@@ -20,5 +17,3 @@ From [statusbadges.me](https://statusbadges.me/)
 
 ![](https://komarev.com/ghpvc/?username=nGinx11&style=plastic&color=65e8b4&label=People+who+said+hi:&base=344) 
 
-
-</div>
